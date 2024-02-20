@@ -1,4 +1,4 @@
 # meal-finder
 
-  here i created a meal finder app 
+  here i created a meal finder app
 
